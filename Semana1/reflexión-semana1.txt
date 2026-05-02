@@ -3,4 +3,6 @@ En un texto de 8 a 10 líneas, responde:
 
 ¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
 
-Respuesta: 
+Respuesta: Yo veo una relación muy clara entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git, porque, al final, todo se conecta en la forma en que interactúo con otros y manejo la información.
+
+En ese sentido, siento que todo está relacionado: ser responsable en internet me ayuda a ser un mejor ciudadano digital, y eso mismo me permite trabajar de manera más ordenada y colaborativa en entornos técnicos. Al final, en los tres casos estoy gestionando información, tomando decisiones y conviviendo con otros, ya sea en una red social o en un proyecto de desarrollo.
