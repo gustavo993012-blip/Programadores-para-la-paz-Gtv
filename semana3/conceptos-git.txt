@@ -1,0 +1,17 @@
+Repositorio:
+
+concepto: Un repositorio  es un espacio digital donde se almacena el código de un proyecto.
+Permite a los desarrolladores organizar, compartir y controlar los cambios realizados.
+Además, facilita el trabajo en equipo y el seguimiento de versiones del proyecto.
+
+Commit:
+
+ Un commit:  es la confirmación de cambios en un repositorio de código.
+Permite llevar un control y registro de las modificaciones realizadas en un proyecto.
+Además, facilita el trabajo en equipo y la corrección de errores.
+
+Push: 
+
+Push es una acción en programación que permite enviar información o cambios de un lugar a otro.
+En Git, se utiliza para subir cambios realizados a un repositorio remoto.
+También puede referirse a agregar elementos a una pila dentro de un programa.
