@@ -1,0 +1,12 @@
+para que sirve esta ruta? 
+ este código sirve para recibir un reporte o mensaje enviado por un usuario y devolver una confirmación. No guarda nada en una base de datos; simplemente recibe el mensaje y lo devuelve en la respuesta.
+
+para qué podría servir en una aplicación comunitaria
+en una aplicación comunitaria, esta ruta podría servir para que los usuarios envíen reportes, sugerencias o alertas a los administradores de la comunidad. 
+reportar un problema
+reportar un incidente
+enviar sugerencias
+guardar los reportes en una base de datos
+registrar quien envió el reporte
+agregar fecha y hora
+
