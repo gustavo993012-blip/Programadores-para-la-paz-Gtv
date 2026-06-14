@@ -1,0 +1,14 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de iluminación en una calle del barrio durante la noche"
+}
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en una vía comunitaria que dificulta el paso de vehículos y peatones"
+}
+
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Fuga de agua en una tubería ubicada en una zona residencial"
+}
