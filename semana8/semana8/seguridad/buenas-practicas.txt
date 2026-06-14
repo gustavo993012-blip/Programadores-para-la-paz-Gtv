@@ -1,0 +1,3 @@
+1. Usar autenticación de dos factores.
+2. Cerrar sesión al terminar de usar un equipo compartido.
+3. Evitar abrir enlaces sospechosos o desconocidos.
