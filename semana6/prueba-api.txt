@@ -1,0 +1,22 @@
+En la ruta post de envió envío de registró, puede recibir las variables/const que se han definido ejemplo 
+const nombre = req.body.nombre;
+const mensaje = req.body.mensaje;
+const edad = req.body.edad;
+
+
+Estas son variables vacías las cuales se puede rellenar mediante un JSON en x extensión para su prueba ejemplo
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Si el bloque res.json tiene 
+    estado: "Datos recibidos",
+    nombre: nombre,
+    edad: edad,
+    mensaje: mensaje,
+    color: "Negro"
+
+ella recibirá solo nombre y mensaje, como edad no se ha enviado no se mostrara
+
+tanto como estado y color son elementos predefinidos se muestran el resultado final.

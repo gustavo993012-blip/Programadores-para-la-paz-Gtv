@@ -1,0 +1,11 @@
+Un ejemplo sobre incidencias que pueden ocurrir en la comunidad podría ser algo mas como un foro donde quede registrado
+que persona, y la ubicación del problema.
+
+{
+  "nombre": "Gustavo",
+  "id": 12345,
+  "direccion": "Calle Principal",
+  "queja": "Un cable de la energía eléctrica esta presentado fallas, y se encuentra muy bajo, lo que puede ser un problema para los transeúntes"
+  }
+
+Este es un ejemplo que he creado, para una comunidad, para reportar errores comunes en vías publicas
