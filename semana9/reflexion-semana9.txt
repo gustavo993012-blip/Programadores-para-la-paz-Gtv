@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas de una comunidad funcionen de manera estable y segura porque muchas personas dependen de ellas para comunicarse y acceder a servicios.
+Si un servidor falla con frecuencia, se interrumpe el acceso a la información y se afecta la confianza de los usuarios.
+La estabilidad permite que la plataforma esté disponible cuando se necesita.
+La seguridad protege datos personales, mensajes y recursos compartidos.
+También evita que personas no autorizadas alteren el servicio o provoquen daños.
+Un servidor confiable ayuda a que la comunidad trabaje con continuidad.
+Además, facilita el seguimiento de errores y la mejora del sistema.
+Cuando hay monitoreo y buenas prácticas, se reduce el riesgo de caídas.
+Por eso un entorno servidor bien administrado es clave para sostener proyectos comunitarios.
