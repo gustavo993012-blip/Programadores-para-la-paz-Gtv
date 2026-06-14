@@ -1,0 +1,8 @@
+La seguridad digital es importante porque protege la información de las personas que participan en una plataforma.
+También evita que datos personales o credenciales sean robados o usados sin permiso.
+En comunidades y procesos participativos, la confianza es fundamental para que las personas se involucren.
+Si una plataforma es insegura, puede exponer opiniones, registros y datos sensibles.
+Eso puede afectar la privacidad y la integridad de la comunidad.
+Además, un incidente de seguridad puede interrumpir actividades importantes y dificultar la comunicación.
+Aplicar buenas prácticas ayuda a mantener la plataforma disponible y confiable.
+Por eso la seguridad digital no solo protege sistemas, también protege a las personas y sus procesos.

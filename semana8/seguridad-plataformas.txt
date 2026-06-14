@@ -1,0 +1,5 @@
+1. Revisar periódicamente los permisos de usuarios y administradores.
+2. Activar alertas ante accesos sospechosos o intentos fallidos.
+3. Hacer copias de seguridad de la información importante.
+4. Capacitar a las personas usuarias en prevención de fraude digital.
+5. Aplicar actualizaciones y parches de seguridad con frecuencia.
