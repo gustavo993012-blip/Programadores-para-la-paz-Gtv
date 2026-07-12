@@ -1,0 +1,50 @@
+ITERACIÓN SEMANA 10 - PLANIFICACIÓN INICIAL
+==============================================
+
+PREGUNTAS RESPONDIDAS
+=====================
+
+1. ¿Qué 2 tareas del backlog harías primero?
+
+   TAREA 1: Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+   TAREA 2: Como coordinador quiero recibir una alerta en Telegram cuando se registre una nueva incidencia.
+
+   Justificación: Estas dos tareas son las más críticas porque:
+   - Sin la capacidad de registrar incidencias, no hay datos en el sistema.
+   - Sin notificaciones, el coordinador no sabrá que hay nuevos reportes que atender.
+   - Estas dos funcionalidades forman el MVP (Producto Mínimo Viable) básico del sistema.
+   - Todas las demás funcionalidades dependen de que estas dos estén implementadas primero.
+
+
+2. ¿Por qué son las más importantes?
+
+   Son importantes porque establecen el flujo básico de la aplicación:
+   - Entrada de datos: Los ciudadanos pueden reportar incidencias
+   - Notificación: El equipo coordinador se entera inmediatamente
+   - Sin estas dos, el sistema no tiene utilidad práctica
+   - Generan confianza en la comunidad al garantizar que los reportes serán recibidos y leídos
+
+
+3. Definición de "Terminado" (Definition of Done)
+
+   Una tarea se considerará "terminada" cuando cumpla con los siguientes criterios:
+
+   ✓ CRITERIO 1: Funciona correctamente
+     - La funcionalidad se ejecuta sin errores
+     - Cumple con la descripción de la historia de usuario
+     - Ha sido probada manualmente
+
+   ✓ CRITERIO 2: Fue probada
+     - Se realizaron pruebas unitarias o de integración
+     - Se probó con casos normales y casos límite
+     - Se verificó que no genera errores con datos inesperados
+
+   ✓ CRITERIO 3: Quedó registrada en Git
+     - El código fue enviado (push) al repositorio
+     - El commit tiene un mensaje claro describiendo la funcionalidad
+     - Los cambios están documentados en un PR si es necesario
+
+   ✓ CRITERIO 4: Está documentada
+     - Incluye comentarios en el código cuando es necesario
+     - Se actualizó el README si es relevante
+     - Se documentaron las decisiones técnicas principales

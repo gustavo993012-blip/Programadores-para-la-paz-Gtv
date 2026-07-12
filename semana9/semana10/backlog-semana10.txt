@@ -1,0 +1,21 @@
+BACKLOG - SISTEMA DE REPORTE DE INCIDENCIAS COMUNITARIAS
+========================================================
+
+HISTORIAS DE USUARIO (Ordenadas por prioridad - Mayor a Menor)
+==============================================================
+
+1. Como ciudadano quiero registrar una incidencia (robo, daño de vía, falta de servicios) para dejar evidencia del caso y que la comunidad esté informada.
+   Prioridad: CRÍTICA
+   Justificación: Esta es la funcionalidad central del sistema. Sin ella, no hay forma de capturar reportes.
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre una nueva incidencia para revisar el reporte de forma inmediata.
+   Prioridad: ALTA
+   Justificación: Las notificaciones en tiempo real permiten que el equipo coordinador actúe rápidamente sobre los problemas reportados.
+
+3. Como miembro del equipo quiero consultar y filtrar los reportes registrados para hacer seguimiento de las incidencias y ver su estado.
+   Prioridad: ALTA
+   Justificación: El seguimiento es esencial para garantizar que los reportes sean atendidos y para generar estadísticas de incidencias.
+
+4. Como administrador quiero generar reportes mensuales con estadísticas de incidencias por zona o categoría para presentarlos a las autoridades.
+   Prioridad: MEDIA
+   Justificación: Los reportes estadísticos son importantes para documentar patrones y presentar evidencia a entes competentes, pero pueden implementarse después de las funcionalidades básicas.
