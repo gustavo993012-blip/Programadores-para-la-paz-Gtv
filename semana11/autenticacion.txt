@@ -1,0 +1,9 @@
+AUTENTICACIÓN EN PLATAFORMAS CIUDADANAS
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la plataforma. Sin autenticación, cualquier persona podría acceder a cualquier información, lo que comprometería la seguridad del sistema.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos, datos de participantes o acciones administrativas que no deberían estar disponibles para cualquier persona. Por ejemplo, la ruta para ver historial de apoyos debe estar protegida para respetar la privacidad.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos personales, direcciones de residencia, tokens de autenticación, claves de API ni datos sensibles de la comunidad. Estos datos deben almacenarse de forma segura y encriptada en la base de datos, nunca en código o archivos de configuración públicos.
+
+La autenticación es fundamental en plataformas ciudadanas porque garantiza que solo usuarios registrados y verificados puedan participar, evitando abusos y protegiendo la integridad de la información comunitaria.

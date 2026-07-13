@@ -1,0 +1,17 @@
+RESPUESTAS - SEMANA 11
+
+PREGUNTA 1: ¿Qué es una base de datos en una aplicación?
+Respuesta correcta: 2
+Un sistema que permite almacenar y consultar información estructurada.
+
+PREGUNTA 2: ¿Qué significa CRUD en programación?
+Respuesta correcta: 1
+Crear, leer, actualizar y eliminar datos.
+
+PREGUNTA 3: ¿Qué permite la autenticación de usuarios en una aplicación?
+Respuesta correcta: 2
+Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+
+PREGUNTA 4: ¿Por qué es importante proteger datos sensibles en una plataforma digital?
+Respuesta correcta: 2
+Para evitar riesgos de privacidad o uso indebido de la información.

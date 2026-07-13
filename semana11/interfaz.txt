@@ -1,0 +1,13 @@
+INTERFAZ BÁSICA - PLATAFORMA COMUNITARIA
+
+La interfaz tendría una sección superior con autenticación (login/registro) para que los usuarios se identifiquen de manera segura.
+
+Debajo, habría un formulario para crear una nueva causa comunitaria con campos para título, descripción, categoría y fecha de creación. Este formulario solo sería visible para usuarios autenticados.
+
+También habría una lista de causas disponibles mostrada de forma clara con tarjetas o filas, donde cada causa desplegaría su información principal sin exponer datos privados de quien la creó.
+
+Cada causa tendría un botón de "Apoyar" claramente visible y un contador que muestre cuántas personas la han apoyado. Este contador se actualizaría en tiempo real cuando un usuario realice una acción.
+
+La interfaz incluiría un menú de navegación simple con opciones como "Inicio", "Mis Apoyos", "Crear Causa" y "Perfil", accesible solo para usuarios autenticados.
+
+La interfaz debe ser clara, intuitiva y responsiva (funcionar en diferentes dispositivos). No debe mostrar información privada como correos, teléfonos o documentos de identidad de los usuarios. Solo mostraría nombres de usuario públicos cuando sea necesario.
