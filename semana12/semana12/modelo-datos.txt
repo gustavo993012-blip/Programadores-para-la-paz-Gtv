@@ -1,0 +1,17 @@
+Modelo de datos simple:
+
+Causa
+- id: identificador único de la causa.
+- titulo: nombre de la petición o problema.
+- descripcion: detalle de la solicitud.
+- fecha: fecha en la que se creó la causa.
+
+Sirve para almacenar la información principal de la petición.
+
+Apoyo
+- id: identificador único del apoyo.
+- causa_id: relación con la causa a la que pertenece.
+- nombre: nombre de la persona que apoya.
+- fecha: fecha en la que se registró el apoyo.
+
+Sirve para registrar cada apoyo que recibe la causa.
