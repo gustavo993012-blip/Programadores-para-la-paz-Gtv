@@ -1,5 +1,5 @@
-Respuestas de selecci髇 m鷏tiple:
-1. 2. Una herramienta simple para que una comunidad registre apoyos a una causa y genere una petici髇 formal
-2. 2. Convertir informaci髇 registrada en un documento formal que pueda ser compartido o presentado
-3. 1. Para evitar almacenar informaci髇 innecesaria o sensible
-4. 1. Enviar notificaciones autom醫icas cuando ocurre un evento en el sistema
+Respuestas de selecci贸n m煤ltiple:
+1. B. Una herramienta simple para que una comunidad registre apoyos a una causa y genere una petici贸n formal
+2. B. Convertir informaci贸n registrada en un documento formal que pueda ser compartido o presentado
+3. A. Para evitar almacenar informaci贸n innecesaria o sensible
+4. A. Enviar notificaciones autom谩ticas cuando ocurre un evento en el sistema
